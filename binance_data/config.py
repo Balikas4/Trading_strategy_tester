@@ -1,2 +1,2 @@
-API_KEY='MhTcv4csZ3kIuiWB4Cy1H41DK6AwpiIRMc15NNpHtmf2jgOGZgFmycxMD5fNUkfK' 
-API_SECRET='As7yowifmCUUFoOwjnw9kdQx9LpwiivSbb291kASzwjUTFrJcRM8PuDUvZGIKQYy'
+API_KEY='your-api-key' 
+API_SECRET='your-api-secret'
